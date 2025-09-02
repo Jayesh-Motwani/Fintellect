@@ -188,3 +188,10 @@ CIPLA.NS_quarterly_financials
 
 combined_quarterly_financials
 combined_filtered_quarterly_financials
+
+test_one.csv
+DRREDDY.NS_quarterly_financials.csv
+CIPLA.NS_quarterly_financials.csv
+
+combined_quarterly_financials.csv
+combined_filtered_quarterly_financials.csv
