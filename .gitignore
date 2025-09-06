@@ -192,6 +192,8 @@ combined_filtered_quarterly_financials
 test_one.csv
 DRREDDY.NS_quarterly_financials.csv
 CIPLA.NS_quarterly_financials.csv
-
+all_industries.csv
 combined_quarterly_financials.csv
+uncleaned_final.csv
+uncleaned_final
 combined_filtered_quarterly_financials.csv
