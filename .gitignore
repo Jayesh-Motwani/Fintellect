@@ -197,3 +197,6 @@ combined_quarterly_financials.csv
 uncleaned_final.csv
 uncleaned_final
 combined_filtered_quarterly_financials.csv
+*.json
+*.h5
+*.csv
